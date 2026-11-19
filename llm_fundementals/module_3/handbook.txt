@@ -1,0 +1,59 @@
+ACME LEARNING CO. — EMPLOYEE HANDBOOK (SAMPLE / FICTIONAL)
+Version 3.2 — Effective January 1, 2026
+
+1. WELCOME
+Welcome to Acme Learning Co. This handbook describes the policies, benefits, and expectations that apply to all full-time and part-time employees. It does not create a contract of employment. Where local law provides greater rights than this handbook, local law applies. Questions about any policy should be directed to the People Team at people@acme-learning.example.
+
+2. EMPLOYMENT BASICS
+2.1 Employment classifications. Full-time employees are scheduled for 40 hours per week. Part-time employees are scheduled for fewer than 30 hours per week. Temporary employees are hired for a defined period, normally not exceeding six months.
+2.2 Probationary period. All new employees complete a 90-day introductory period. During this period, your manager will hold check-ins at 30, 60, and 90 days to review goals and give feedback.
+2.3 Working hours. Core collaboration hours are 10:00 to 15:00 in the employee's local time zone. Outside core hours, employees may arrange their schedule with their manager's approval.
+2.4 Timekeeping. Non-exempt employees must record all hours worked in the time-tracking system by the end of each working day. Overtime must be approved in advance by a manager.
+
+3. PAID TIME OFF
+3.1 Vacation days. Full-time employees receive 20 vacation days per calendar year during their first three years of service. After three full years of service, the allowance increases to 25 days per year. After seven full years, it increases to 28 days per year. Part-time employees receive vacation on a pro-rated basis according to their scheduled hours.
+3.2 Accrual. Vacation accrues monthly. For example, a full-time employee in their first three years accrues 1.67 days per month.
+3.3 Carry-over. Up to 5 unused vacation days may be carried over into the following calendar year. Carried-over days must be used by March 31 or they expire.
+3.4 Requesting time off. Vacation requests should be submitted in the HR portal at least two weeks in advance for absences of three days or more. Requests for one or two days should be submitted at least two working days in advance. Managers will respond within three working days.
+3.5 Public holidays. The company observes 11 public holidays per year. The list is published in the HR portal each December. If a holiday falls on a weekend, the nearest working day is observed.
+3.6 Sick leave. Employees receive 10 paid sick days per year. Sick days do not carry over. Absences of more than three consecutive working days require a doctor's note.
+3.7 Personal days. Employees receive 2 personal days per year for any reason, which may not be carried over.
+3.8 Parental leave. Primary caregivers receive 16 weeks of fully paid parental leave. Secondary caregivers receive 6 weeks of fully paid leave. Leave must be taken within 12 months of the birth or adoption.
+3.9 Bereavement leave. Employees may take up to 5 paid days following the death of an immediate family member and up to 2 paid days for other relatives.
+
+4. REMOTE WORK POLICY
+4.1 Hybrid by default. Acme operates a hybrid model. Employees assigned to an office are expected to work on-site on Tuesdays and Thursdays and may work remotely on the other days.
+4.2 Fully remote roles. Some roles are designated fully remote in the job offer. Fully remote employees are expected to attend an in-person team gathering at least twice per year; travel costs are covered by the company.
+4.3 Eligibility. Employees in their 90-day introductory period are expected to work on-site at least three days per week unless their role is designated fully remote.
+4.4 Work location. Employees may work remotely from anywhere within their country of employment. Working from another country requires written approval from the People Team at least 30 days in advance and is limited to 20 working days per calendar year.
+4.5 Equipment. The company provides a laptop, monitor, keyboard, and headset. Employees working remotely at least two days per week receive a one-time home-office stipend of 500 USD and a monthly internet stipend of 50 USD.
+4.6 Availability. Remote employees must be reachable on chat and video during core collaboration hours, keep their calendar up to date, and attend scheduled meetings with their camera on where reasonably possible.
+4.7 Security. Remote work must be done on company-managed devices, connected through the company VPN when accessing internal systems. Public Wi-Fi may only be used with the VPN enabled. Confidential documents must never be printed at home.
+
+5. COMPENSATION AND BENEFITS
+5.1 Pay schedule. Employees are paid monthly on the last working day of the month.
+5.2 Performance reviews. Formal reviews take place twice a year, in June and December. Salary adjustments are effective February 1.
+5.3 Health insurance. The company covers 90% of premiums for employees and 70% for dependents.
+5.4 Retirement plan. The company matches 100% of employee contributions up to 5% of base salary.
+5.5 Learning budget. Each employee receives 1,500 USD per year for courses, books, and conferences related to their role. Unused budget does not carry over.
+5.6 Wellness. Employees receive a monthly wellness stipend of 60 USD that may be used for gym memberships, fitness classes, or mental-health apps.
+
+6. CONDUCT AND WORKPLACE STANDARDS
+6.1 Respect. Acme is committed to a workplace free from harassment and discrimination. Concerns may be reported to a manager, the People Team, or the anonymous ethics line.
+6.2 Conflicts of interest. Employees must disclose outside employment or financial interests that could conflict with their duties.
+6.3 Confidentiality. Customer data and internal information must not be shared outside the company without authorization.
+6.4 Use of AI tools. Employees may use company-approved AI tools for work. Confidential customer data must not be entered into tools that are not on the approved list.
+6.5 Dress code. There is no formal dress code; employees should dress appropriately for customer meetings.
+
+7. EXPENSES AND TRAVEL
+7.1 Business expenses must be submitted within 30 days with receipts.
+7.2 Economy class is standard for flights under six hours. Business class may be approved for longer flights.
+7.3 Daily meal allowance while traveling is 75 USD.
+
+8. LEAVING THE COMPANY
+8.1 Notice. Employees are asked to give at least four weeks' notice of resignation.
+8.2 Unused vacation. Accrued, unused vacation days are paid out on the final paycheck.
+8.3 Equipment return. All company equipment must be returned within 10 working days of the last day of employment.
+
+9. CONTACT
+For any questions about this handbook, contact the People Team at people@acme-learning.example.

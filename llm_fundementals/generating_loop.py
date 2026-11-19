@@ -6,6 +6,11 @@ tok = AutoTokenizer.from_pretrained("gpt2")
 model = AutoModelForCausalLM.from_pretrained("gpt2")
 model.eval()
 
+print("dummy")
+print(tok.tokenize("The capital of France is unbelievably beautiful"))
+print(tok.tokenize("Donjo heeelo worldd"))
+
+
 def generate(prompt, max_new_tokens=20, mode="greedy"):
     input_ids = tok(prompt, return_tensors="pt").input_ids
 
